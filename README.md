@@ -1,1 +1,1 @@
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![tech_doc](https://github.com/StephenEisen/apache-crawler/blob/master/crawler/docs/tech_doc.PNG?raw=true)
